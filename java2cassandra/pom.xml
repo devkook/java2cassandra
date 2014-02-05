@@ -4,7 +4,7 @@
 
 	<groupId>devkook.study</groupId>
 	<artifactId>java2cassandra</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.9.0</version>
 	<packaging>jar</packaging>
 
 	<name>java2cassandra</name>
